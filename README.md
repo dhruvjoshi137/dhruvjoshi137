@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌟 Introduction
+Hello and welcome to my GitHub profile! I'm Dhruv Sharma, an AI and machine learning enthusiast from India.
 
-<!--
-**dhruvjoshi137/dhruvjoshi137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 About Me
+I'm passionate about building intelligent systems using computer vision, RAG pipelines, and data-driven solutions. With a strong foundation in programming languages like Python and C++, I enjoy exploring the possibilities of machine learning and artificial intelligence.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Featured Projects
+* **Adaptive Traffic Management**: [https://github.com/dhruvjoshi137/adaptive-traffic-management](https://github.com/dhruvjoshi137/adaptive-traffic-management) - AI-powered traffic signal optimization system using computer vision and machine learning.
+* **Leetcode Solutions**: [https://github.com/dhruvjoshi137/Leetcode_Solutions](https://github.com/dhruvjoshi137/Leetcode_Solutions) - Curated repository of daily LeetCode problem solutions in C++.
+* **Mood Match**: [https://github.com/dhruvjoshi137/Mood-Match-Final](https://github.com/dhruvjoshi137/Mood-Match-Final) - Machine learning-based project for mood-based recommendations and insights.
+* **Virtual Recruiter**: [https://github.com/dhruvjoshi137/Virtual_Recruiter](https://github.com/dhruvjoshi137/Virtual_Recruiter) - Intelligent virtual recruiter built using Retrieval-Augmented Generation (RAG).
+
+## 📊 GitHub Activity / Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvjoshi137&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjoshi137&layout=compact&theme=tokyonight)
+
+## 🤝 Connect / Collaboration
+Let's collaborate and build something amazing together! Feel free to reach out to me for any questions, suggestions, or opportunities. 🚀
