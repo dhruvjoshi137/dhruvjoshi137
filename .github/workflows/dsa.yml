@@ -1,0 +1,30 @@
+name: Update DSA Stats Card
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-dsa-stats-card:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Stats and Save SVG
+        run: |
+          curl -o dsa-stats.svg "https://dsastats.vercel.app/api/codolio/NGxibPsj?primary=%231e1e2e&secondary=%23313244&tertiary=%2389b4fa&quaternary=%23f38ba8&quinary=%23a6e3a1&text=%23cdd6f4"
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          git add dsa-stats.svg
+          git commit -m "Update DSA stats" || exit 0
+          git push
