@@ -20,11 +20,11 @@ I'm passionate about building intelligent systems using computer vision, RAG pip
 # Dhruv Sharma
 
 # 🚀 DSA Stats
-<p align="center">
-  <img src="https://dsastats.vercel.app/api/codolio/NGxibPsj?primary=%231e1e2e&secondary=%23313244&tertiary=%2389b4fa&quaternary=%23f38ba8&quinary=%23a6e3a1&text=%23cdd6f4" />
-</p>
+# 🚀 DSA Stats
 
-![DSA Stats](https://dsastats.vercel.app/api/codolio/NGxibPsj?primary=%231e1e2e&secondary=%23313244&tertiary=%2389b4fa&quaternary=%23f38ba8&quinary=%23a6e3a1&text=%23cdd6f4)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/NGxibPsj?theme=dark&font=Nunito&ext=contest" />
+</p>
 
 ## 📊 GitHub Activity / Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvjoshi137&show_icons=true&theme=tokyonight)
