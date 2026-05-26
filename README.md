@@ -17,6 +17,12 @@ I'm passionate about building intelligent systems using computer vision, RAG pip
 * **Mood Match**: [https://github.com/dhruvjoshi137/Mood-Match-Final](https://github.com/dhruvjoshi137/Mood-Match-Final) - Machine learning-based project for mood-based recommendations and insights.
 * **Virtual Recruiter**: [https://github.com/dhruvjoshi137/Virtual_Recruiter](https://github.com/dhruvjoshi137/Virtual_Recruiter) - Intelligent virtual recruiter built using Retrieval-Augmented Generation (RAG).
 
+# Dhruv Sharma
+
+## 🚀 DSA Stats
+
+![Static Stats](https://dsastats.vercel.app/api/codolio/NGxibPsj?primary=%231e1e2e&secondary=%23313244&tertiary=%2389b4fa&quaternary=%23f38ba8&quinary=%23a6e3a1&text=%23cdd6f4)
+
 ## 📊 GitHub Activity / Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvjoshi137&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjoshi137&layout=compact&theme=tokyonight)
