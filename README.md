@@ -20,7 +20,6 @@ I'm passionate about building intelligent systems using computer vision, RAG pip
 # Dhruv Sharma
 
 # 🚀 DSA Stats
-# 🚀 DSA Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dhruvjoshi137?theme=dark&font=Nunito&ext=contest" />
