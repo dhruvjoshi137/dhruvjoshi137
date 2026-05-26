@@ -20,6 +20,6 @@ I'm passionate about building intelligent systems using computer vision, RAG pip
 ## 📊 GitHub Activity / Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvjoshi137&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjoshi137&layout=compact&theme=tokyonight)
-https://dsastats.vercel.app/api/codolio/NGxibPsj?primary=%231e1e2e&secondary=%23313244&tertiary=%2389b4fa&quaternary=%23f38ba8&quinary=%23a6e3a1&text=%23cdd6f4
+
 ## 🤝 Connect / Collaboration
 Let's collaborate and build something amazing together! Feel free to reach out to me for any questions, suggestions, or opportunities. 🚀
